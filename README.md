@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on  <br>IoT-based monitoring systems using ESP32, sensors, and mobile apps<br><br>👯 I’m looking to collaborate on  <br>IoT projects, embedded systems, and beginner-friendly tech innovations<br><br>🤝 I’m looking for help with  <br>Improving mobile app integration, cloud services (Firebase), and system optimization<br><br>🌱 I’m currently learning  <br>Advanced IoT development, backend integration, and real-world deployment<br><br>💬 Ask me about  <br>ESP32, Arduino, sensors, IoT projects, and basic system development<br><br>⚡ Fun fact  <br>I enjoy turning real-world problems into tech-based solutions 🚀
+🔭 I’m currently working on  <br>IoT-based monitoring systems using ESP32, sensors, and mobile apps<br>👯 I’m looking to collaborate on  <br>IoT projects, embedded systems, and beginner-friendly tech innovations<br>🤝 I’m looking for help with  <br>Improving mobile app integration, cloud services (Firebase), and system optimization<br>🌱 I’m currently learning  <br>Advanced IoT development, backend integration, and real-world deployment<br>💬 Ask me about  <br>ESP32, Arduino, sensors, IoT projects, and basic system development<br>⚡ Fun fact  <br>I enjoy turning real-world problems into tech-based solutions 🚀
 
 
 ## 🌐 Socials:
